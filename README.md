@@ -34,6 +34,3 @@ Insert plain text citation of accepted submission here.
 
 ### BibTeX
 Insert BibTex citation of accepted submission here.
-
-
-Template repository for CCAI's tutorials track
