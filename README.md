@@ -35,7 +35,7 @@ Learners should be familiar with:
  
 | Resource | Description |
 |----------|-------------|
-| `notebooks/` | Jupyter notebook(s) |
+| `notebooks/` | Jupyter notebook |
 | `model-card/` | Model documentation (if applicable)|
 | `datasheet/` | Dataset documentation (if applicable)|
 | `sustainability/` | Energy/carbon reporting |
