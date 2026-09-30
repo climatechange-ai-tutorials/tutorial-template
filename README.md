@@ -72,6 +72,7 @@ We recommend executing this notebook in a Colab environment to gain access to GP
 
 ### Model Information
 This submission [does/does not] involve a machine-learning model.
+[If the tutorial trains, fine-tunes, adapts, evaluates, or demonstrates an AI/ML model please provide a model-card. A description of model-cards is provided [here](https://arxiv.org/abs/1810.03993).]
 
 If applicable, see:
 
@@ -79,6 +80,7 @@ If applicable, see:
 
 ### Dataset Information
 This submission [does/does not] use a dataset.
+[If the tutorial utilizes a dataset, please provide a datasheet. A description of datasheets is provided [here](https://arxiv.org/abs/1803.09010).]
 
 If applicable, see:
 
