@@ -3,7 +3,6 @@
 https://img.shields.io/badge/language-Python-blue]
 https://img.shields.io/badge/Jupyter-Notebook-orange]
 https://img.shields.io/badge/license-[LICENSE]-green]
-https://img.shields.io/badge/conference-[CONFERENCE]-purple]
 
 [Required badges consist of 1) programming language + version 2) Jupyter, 3) main ML/data-science framework and 4) license. We do not require authors to create a badge for every dependency. We encourage authors to keep the top 3-5 significant dependencies.]
 
