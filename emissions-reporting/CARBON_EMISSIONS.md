@@ -159,7 +159,7 @@ If yes:
 
 ---
 
-## 5. Emissions from producing the hardware — Recommended if possible
+## 5. Emissions from producing the hardware — Report if possible
 
 Computer hardware also has an environmental cost from its
 manufacture and production. These emissions are separate from the
@@ -188,7 +188,7 @@ If yes:
 
 ---
 
-## 6. Water use — Recommended if possible
+## 6. Water use — Report if possible
 
 **Was water use estimated?**
 
@@ -246,7 +246,7 @@ Select all that apply:
 
 ---
 
-## 8. Effect on model performance — Recommended
+## 8. Effect on model performance
 
 Did reducing computation affect model performance or the
 educational outcome?
