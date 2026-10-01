@@ -32,6 +32,13 @@ Participants should be familiar with:
 - [Prerequisite]
 - [Prerequisite]
 
+### Tutorial walkthrough video
+
+ 
+➡️ [**Video URL**](url)
+**Duration:** [XX minutes]
+
+
 ---
 
 ## Repository Contents
@@ -103,14 +110,6 @@ For more details, go to:
 ➡️ `emissions-reporting/CARBON_EMISSIONS.md`
 
 
----
-
-## Educational materials: Walkthrough video
- 
-➡️ [Video URL]
- 
-**Duration:** [XX minutes]
- 
 ---
 
 ## Contribute to this tutorial
