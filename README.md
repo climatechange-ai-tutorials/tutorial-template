@@ -49,8 +49,8 @@ Participants should be familiar with:
 | `model-card/` | Model documentation (if applicable)|
 | `datasheet/` | Dataset documentation (if applicable)|
 | `emissions-reporting/` | Energy/carbon reporting |
-| `figures/` | Images and figures (recommended if needed) |
-| `data/` | Dataset sample (recommended if needed) |
+| `figures/` | Images and figures (optional) |
+| `data/` | Dataset sample (optional) |
 
 ---
 
