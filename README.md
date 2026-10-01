@@ -9,11 +9,12 @@ https://img.shields.io/badge/license-[LICENSE]-green]
 ## Abstract
 [Provide an abstract describing the tutorial.]
 ### Authors:
-> Reminder for Round II reviews please keep all tutorial materials anonymized to support the double-blind review process.
 
-Provide a bulleted list of all author names, affiliations, and contact links for the camera-ready deadline.
+Provide a bulleted list of all author names, affiliations, and contact links.
 - **[author 1 fullname]**, [Affiliation/Institution] , [contact email]
 - **[author 2 fullname]**, [Affiliation/Institution] , [contact email]
+
+> Reminder for Round II reviews please keep all tutorial materials anonymized to support the double-blind review process.
 
 Originally presented at the [insert CCAI event or workshop full name with the year].
 ## Learning Objectives
