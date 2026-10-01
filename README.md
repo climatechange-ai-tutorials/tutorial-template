@@ -9,6 +9,7 @@ https://img.shields.io/badge/license-[LICENSE]-green]
 ## Abstract
 [Provide an abstract describing the tutorial.]
 ### Authors:
+> Reminder for Round II reviews please keep all tutorial materials anonymized to support the double-blind review process
 Provide a bulleted list of all author names, affiliations, and contact links.
 - **[author 1 fullname]**, [Affiliation/Institution] , [contact email]
 - **[author 2 fullname]**, [Affiliation/Institution] , [contact email]
@@ -35,13 +36,12 @@ Participants should be familiar with:
  
 | Resource | Description |
 |----------|-------------|
-| `notebooks/` | Jupyter notebook |
+| `notebook/` | Jupyter notebook |
 | `model-card/` | Model documentation (if applicable)|
 | `datasheet/` | Dataset documentation (if applicable)|
-| `sustainability/` | Energy/carbon reporting |
-| `educational-materials/` | Videos, quizzes and exercises |
-| `figures/` | Images and figures |
-| `data/` | Dataset instructions or permitted data |
+| `emissions-reporting/` | Energy/carbon reporting |
+| `figures/` | Images and figures (recommended if needed) |
+| `data/` | Dataset sample (recommended if needed) |
 
 ---
 
@@ -96,6 +96,7 @@ If applicable, see:
 Carbon emissions associated with the computational experiments were measured using [CodeCarbon or emissions tracking tool of choice].
  
 For more details, go to:
+
  
 ➡️ `emissions-reporting/CARBON_EMISSIONS.md`
 
