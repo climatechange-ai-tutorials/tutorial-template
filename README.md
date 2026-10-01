@@ -77,7 +77,7 @@ This submission [does/does not] involve a machine-learning model.
 
 If applicable, see:
 
-➡️ model-card/MODEL_CARD.md
+➡️ `model-card/MODEL_CARD.md`
 
 ### Dataset Information
 This submission [does/does not] use a dataset.
@@ -86,29 +86,24 @@ This submission [does/does not] use a dataset.
 
 If applicable, see:
 
-➡️ datasheet/DATASHEET.md
+➡️ `datasheet/DATASHEET.md`
 
 ### Sustainbility/Carbon Emissions
-Carbon emissions associated with the computational experiments
-were measured.
+Carbon emissions associated with the computational experiments were measured using [CodeCarbon or emissions tracking tool of choice].
  
-See:
+For more details, go to:
  
-➡️ sustainability/CARBON_EMISSIONS.md
+➡️ `emissions-reporting/CARBON_EMISSIONS.md`
+
 
 ---
 
-## Educational Materials
-### Walkthrough Video
+## Educational materials: Walkthrough video
  
 ➡️ [Video URL]
  
 **Duration:** [XX minutes]
  
-### Quiz
- 
-➡️ educational-materials/quizzes/quiz.md
-
 ---
 
 ## Contribute to this tutorial
