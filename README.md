@@ -1,10 +1,10 @@
 # [Title of Contribution]
 
-https://img.shields.io/badge/language-Python-blue
-https://img.shields.io/badge/Jupyter-Notebook-orange
-https://img.shields.io/badge/license-MIT-green
+![Python](https://img.shields.io/badge/language-Python-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
-[Required badges consist of 1) programming language + version 2) Jupyter, 3) main ML/data-science framework and 4) license. We do not require authors to create a badge for every dependency. We encourage authors to keep the top 3-5 significant dependencies.]
+[Required badges consist of 1) programming language + version 2) main ML/data-science framework and 4) license. We do not require authors to create a badge for every dependency. We encourage authors to keep the top 3-5 significant dependencies. Badge urls can be found on ]
 
 ## Abstract
 [Provide an abstract describing the tutorial.]
