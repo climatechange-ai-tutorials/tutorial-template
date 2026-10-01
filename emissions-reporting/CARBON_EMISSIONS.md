@@ -14,7 +14,7 @@
 
 ---
 
-## 1. Computation included — Required
+## 1. Computation included
 
 ### What computation did you perform?
 
@@ -56,8 +56,7 @@ If everything was tracked, write **None known**.
 
 ---
 
-## 2. Hardware and computing environment — Required
-
+## 2. Hardware and computing environment
 **Computing environment:**
 
 - [ ] Personal computer or workstation
@@ -88,7 +87,7 @@ If everything was tracked, write **None known**.
 
 ---
 
-## 3. Energy and carbon emissions — Required if applicable
+## 3. Energy and carbon emissions
 
 ### How were emissions tracked?
 
@@ -125,7 +124,7 @@ If everything was tracked, write **None known**.
 
 ---
 
-## 4. Remote AI or machine-learning services — Required if applicable
+## 4. Remote AI or machine-learning services
 
 Did the project use a remotely hosted AI or machine-learning
 service?
@@ -160,7 +159,7 @@ If yes:
 
 ---
 
-## 5. Emissions from producing the hardware — Recommended
+## 5. Emissions from producing the hardware — Recommended if possible
 
 Computer hardware also has an environmental cost from its
 manufacture and production. These emissions are separate from the
@@ -189,7 +188,7 @@ If yes:
 
 ---
 
-## 6. Water use — Recommended
+## 6. Water use — Recommended if possible
 
 **Was water use estimated?**
 
@@ -218,7 +217,7 @@ If yes:
 
 ---
 
-## 7. Reducing computational impact — Required
+## 7. Reducing computational impact
 
 What did you do to reduce unnecessary computation?
 
@@ -267,7 +266,7 @@ reduced computing time while producing similar model accuracy.]
 
 ---
 
-## 9. Limitations — Required
+## 9. Limitations
 
 What is missing or uncertain in the reported values?
 
