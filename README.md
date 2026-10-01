@@ -9,8 +9,9 @@ https://img.shields.io/badge/license-[LICENSE]-green]
 ## Abstract
 [Provide an abstract describing the tutorial.]
 ### Authors:
-> Reminder for Round II reviews please keep all tutorial materials anonymized to support the double-blind review process
-Provide a bulleted list of all author names, affiliations, and contact links.
+> Reminder for Round II reviews please keep all tutorial materials anonymized to support the double-blind review process.
+
+Provide a bulleted list of all author names, affiliations, and contact links for the camera-ready deadline.
 - **[author 1 fullname]**, [Affiliation/Institution] , [contact email]
 - **[author 2 fullname]**, [Affiliation/Institution] , [contact email]
 
