@@ -15,7 +15,7 @@ Provide a bulleted list of all author names, affiliations, and contact links.
 
 Originally presented at the [insert CCAI event or workshop full name with the year].
 ## Learning Objectives
-After completing this tutorial, learners should be able to:
+After completing this tutorial, participants should be able to:
 1. [Learning objective]
 2. [Learning objective]
 3. [Learning Objective]
@@ -24,7 +24,7 @@ After completing this tutorial, learners should be able to:
 [Describe the intended audience and please be as specific as possible, especially with respect to their expected background.]
 
 ### Prerequisites
-Learners should be familiar with:
+Participants should be familiar with:
 - [Prerequisite]
 - [Prerequisite]
 - [Prerequisite]
