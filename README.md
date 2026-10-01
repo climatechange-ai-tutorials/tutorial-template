@@ -66,6 +66,10 @@ We recommend executing this notebook in a Colab environment to gain access to GP
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+To run locally, see:
+
+➡️ `notebook/[final_notebook_name_without_version.ipynb]`
+
 **Estimated time to execute end-to-end:** [insert runtime here].
 
 **Last successfully tested:** [YYYY-MM-DD]
