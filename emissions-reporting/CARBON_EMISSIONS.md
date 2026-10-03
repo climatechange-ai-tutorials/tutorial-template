@@ -1,8 +1,8 @@
 # Carbon Emissions and Computational Sustainability
 
-> **REQUIRED IF APPLICABLE**
+> **Fill this template to the best of your abilities**
 >
-> Use the [CodeCarbon](https://codecarbon.io/) library or an equivalent carbon emissions tracking library to estimate the emissions
+> Use the [CodeCarbon](https://codecarbon.io/) library or an equivalent carbon emissions tracking library (some examples include [carbon tracker](https://github.com/saintslab/carbontracker), [experiment impact tracker](https://github.com/Breakend/experiment-impact-tracker), and  [Eco2AI](https://github.com/sb-ai-lab/Eco2AI), among others) to estimate carbon emissions
 > associated with your tutorial especially if it involved model training, fine-tuning, hyperparameter search, benchmarking,
 > substantial inference, data processing, or other computation. For an example of how to use CodeCarbon please refer to the
 > following Hanna et. al, CCAI Tutorial: 
@@ -10,7 +10,13 @@
 >
 > Report to your best ability. If a value was not measured or cannot be
 > reasonably estimated, write **Not measured**, **Unknown**, or
-> **Not applicable** rather than guessing.
+> **Not applicable** rather than guessing. If using CodeCarbon, you may leave output `emissions.csv` generated in the parent directory `emissions-reporting`.
+>
+> Your work in carbon emissions reporting will be a part of a pilot program with CCAI as part of a broader effort to improve reporting best practices.
+> For Round II tutorial review, we ask all authors to report operational carbon emissions at a minimum. 
+> Sections pertaining to embodied emissions as well as idle consumption emissions estimates for water usage are exploratory and we appreciate you answering to the
+> best of your abilities.
+> In sections that overlap in `model-card/MODEL_CARD.md` and `datasheet/DATASHEET.md` with emissions reporting, you may place a note rerouting readers to this file.
 
 ---
 
@@ -87,7 +93,7 @@ If everything was tracked, write **None known**.
 
 ---
 
-## 3. Energy and carbon emissions
+## 3. Operational carbon emissions (Required)
 
 ### How were emissions tracked?
 
@@ -124,42 +130,7 @@ If everything was tracked, write **None known**.
 
 ---
 
-## 4. Remote AI or machine-learning services
-
-Did the project use a remotely hosted AI or machine-learning
-service?
-
-- [ ] No
-- [ ] Yes
-
-If yes:
-
-**Provider:**  
-[Provider]
-
-**Model:**  
-[Model / Unknown]
-
-**Amount of use:**  
-[Number of requests, tokens, or other measure / Unknown]
-
-**Tool or method used to estimate environmental impact:**  
-[Tool / provider information / Not measured]
-
-**Estimated energy:**  
-[kWh / Not measured]
-
-**Estimated carbon emissions:**  
-[kg CO2e / Not measured]
-
-> Do not use your laptop's energy consumption to represent
-> computation performed by a remote service. Use an appropriate
-> estimate for the remote service when one is available. Otherwise,
-> report **Not measured**.
-
----
-
-## 5. Emissions from producing the hardware — Report if possible
+## 4. Embodied Emissions (Report if possible)
 
 Computer hardware also has an environmental cost from its
 manufacture and production. These emissions are separate from the
@@ -183,12 +154,12 @@ If yes:
 [Brief explanation]
 
 > If you do not have enough information to make a reasonable
-> estimate, select **No**. Do not guess.
+> estimate, select **No**.
 
 
 ---
 
-## 6. Water use — Report if possible
+## 5. Idle Consumption emissions: Water use (Report if possible)
 
 **Was water use estimated?**
 
@@ -217,7 +188,7 @@ If yes:
 
 ---
 
-## 7. Reducing computational impact
+## 6. Reducing computational impact (Required)
 
 What did you do to reduce unnecessary computation?
 
@@ -246,7 +217,7 @@ Select all that apply:
 
 ---
 
-## 8. Effect on model performance
+## 7. Effect on model performance
 
 Did reducing computation affect model performance or the
 educational outcome?
@@ -266,7 +237,7 @@ reduced computing time while producing similar model accuracy.]
 
 ---
 
-## 9. Limitations
+## 8. Limitations (Required)
 
 What is missing or uncertain in the reported values?
 

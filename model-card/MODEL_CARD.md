@@ -3,6 +3,8 @@
 > Below, we provide the outline published in Figure 1 of [Mitchell et al., Model Cards for Model Reporting (2019)](https://arxiv.org/abs/1810.03993).
 > Refer to the linked source for more details.
 
+> You may also utilize the [Hugging Face Model Card Writing tool](https://huggingface.co/spaces/huggingface/Model_Cards_Writing_Tool).
+
 ## Model Details 
 [Basic information about the model.]
 – Person or organization developing model
